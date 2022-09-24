@@ -37,3 +37,4 @@ echo "[Repository] Generated in-line signature for Release"
 
 cp -R pool "$OUTPUT_DIR"
 cp CydiaIcon.png "$OUTPUT_DIR"
+cp index.html "$OUTPUT_DIR"

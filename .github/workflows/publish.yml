@@ -35,7 +35,6 @@ jobs:
       - name: Build repo
         run: |
           bash build.sh
-          rm .gitignore
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4
